@@ -6,7 +6,7 @@ Este repositório contém um projeto de limpeza de dados utilizando SQL no MySQL
 
 ## 📊 Objetivo
 
-Realizar o processo completo de **ETL (Extract, Transform, Load)** para transformar o dataset bruto de layoffs em um conjunto de dados limpo e confiável, pronto para análise.
+Realizar o processo completo de **ETL (Extract, Transform, Load)** para transformar o dataset bruto de layoffs em um conjunto de dados limpo, pronto para análise.
 
 ---
 
